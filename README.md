@@ -1,6 +1,7 @@
 # DIY Disease Tracking Dashboard Kit
 
-Build and deploy your own Disease Tracker Dashboard using iPywidgets, Voila and Binders. Based on UK Government [data](https://ukhsa-dashboard.data.gov.uk/) published by the UK Health Security Agency ([UKHSA](https://www.gov.uk/government/organisations/uk-health-security-agency)).
+Build and deploy your own Disease Tracker Dashboard using iPywidgets, Voila and Binders. 
+Based on UK Government [data](https://ukhsa-dashboard.data.gov.uk/) published by the UK Health Security Agency ([UKHSA](https://www.gov.uk/government/organisations/uk-health-security-agency)).
 
 Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naomantab/flu-dashboard.git/HEAD)
 
